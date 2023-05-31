@@ -1,0 +1,6 @@
+Automatic Licence Plate Detection
+
+-Run main2.py file on PyCharm
+-Hit enter to see different images produced during proccessing
+-Can also change file path to detect different number plates from train dataset
+
